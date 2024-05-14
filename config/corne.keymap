@@ -43,10 +43,10 @@
             //                    | GUI | LWR | SPC |   | ENT | RSE  | ALT |
 
             bindings = <
-&LayerHold 3 TAB  &kp Q            &kp W                &kp E                &kp R              &kp T        &kp Y          &kp U          &kp I                 &kp O                 &kp P                     &kp DELETE
-&kp LCTRL         &hml LEFT_ALT A  &hml LEFT_COMMAND S  &hml LEFT_CONTROL D  &hml LEFT_SHIFT F  &kp G        &kp H          &hml RSHIFT J  &hml RIGHT_CONTROL K  &hml RIGHT_COMMAND L  &hml RIGHT_ALT SEMICOLON  &kp SQT
-&kp LSHFT         &kp Z            &kp X                &kp C                &kp V              &kp B        &kp N          &kp M          &kp COMMA             &kp DOT               &kp FSLH                  &kp ESC
-                                                        &kp ENTER            &mo 1              &kp SPACE    &kp BACKSPACE  &mo 2          &kp ENTER
+&LayerHold 3 TAB  &kp Q            &kp W                &kp E                &kp R              &kp T            &kp Y      &kp U          &kp I                 &kp O                 &kp P                     &kp DELETE
+&kp LCTRL         &hml LEFT_ALT A  &hml LEFT_COMMAND S  &hml LEFT_CONTROL D  &hml LEFT_SHIFT F  &kp G            &kp H      &hml RSHIFT J  &hml RIGHT_CONTROL K  &hml RIGHT_COMMAND L  &hml RIGHT_ALT SEMICOLON  &kp SQT
+&kp LSHFT         &kp Z            &kp X                &kp C                &kp V              &kp B            &kp N      &kp M          &kp COMMA             &kp DOT               &kp FSLH                  &kp ESC
+                                                        &kp ENTER            &mo 1              &kp BACKSPACE    &kp SPACE  &mo 2          &kp ENTER
             >;
         };
 
